@@ -48,7 +48,7 @@ class _pagescreenviewState extends State<Pagescreenview> {
                 'https://firebasestorage.googleapis.com/v0/b/bquito-a84c1.appspot.com/o/WhatsApp%20Image%202024-11-08%20at%209.05.59%20PM.jpeg?alt=media&token=d47cf0fd-1a28-442b-89d2-80429e453abd',
             Text1: 'Find and Adopt i',
             Text2:
-                'You have the opportunity to provide a comfortable home and food for those pets who nee',
+                'You have the opportunity to provide a comfortable home and food for those pets who hello',
             currentpage: currentpage,
           ),
         ],
